@@ -143,9 +143,9 @@ Unidecode==1.0.22 \
 pytz==2018.5 \
     --hash=sha256:a061aa0a9e06881eb8b3b2b43f05b9439d6583c206d0a6c340ff72a7b6669053 \
     --hash=sha256:ffb9ef1de172603304d9d2819af6f5ece76f2e85ec10692a524dd876e72bf277
-sorl-thumbnail==12.4.1 \
-    --hash=sha256:1cc6d913fe4f1224e479f25a23ec2ad3ca71c3154919a2c9463b07e7fbe11ac2 \
-    --hash=sha256:c5ef989da07d31925754922ce95783fd2b1f8735124c0510884633eb32a4cd3e
+sorl-thumbnail==12.5.0 \
+    --hash=sha256:d9e3f018d19293824803e4ffead96b19dfcd44fa7987cea392f50436817bef34 \
+    --hash=sha256:8dfe5fda91a5047d1d35a0b9effe7b000764a01d648e15ca076f44e9c34b6dbd
 anyjson==0.3.3 \
     --hash=sha256:37812d863c9ad3e35c0734c42e0bf0320ce8c3bed82cd20ad54cb34d158157ba
 pycparser==2.18 \
